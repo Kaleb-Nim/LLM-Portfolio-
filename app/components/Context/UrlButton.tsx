@@ -1,6 +1,6 @@
 
 import React, {FC} from "react";
-import {Button} from "./button";
+import {Button} from "./Button";
 import { IconContext } from "react-icons";
 import { AiOutlineLink } from "react-icons/ai";
 import Link from "next/link";

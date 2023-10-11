@@ -4,7 +4,7 @@ import UrlButton from "./UrlButton";
 import { Card, ICard } from "./Card";
 import { clearIndex, crawlDocument } from "./utils";
 
-import { Button } from "./button"
+import { Button } from "./Button"
 
 interface ContextProps {
   className: string;

@@ -15,8 +15,10 @@ const Chat: React.FC<Chat> = ({
     input,
     messages,
     handleInputChanges,
-    handleMessageSubmit
+    handleMessageSubmit,
+
 }) => {
+    console.log("messages",messages)
     return (
         <div id="chat" className="flex flex-col w-full lg:w-3/5 mr-4 mx-5 lg:mx-0">
         <Messages messages={messages} />
