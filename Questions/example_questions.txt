@@ -1,0 +1,31 @@
+Where did you go for School ( Education )
+what kinds of activities/programms did u participate in? ( Experience --> Activities,Projects,Hackathons,Technical Skills )
+what kinds of experience do you have ( Programs )
+How old are you ( Personal_info )
+Who is the creator of this portfolio website? (Personal)
+What is the purpose of this portfolio website?(Others)
+What kind of work or projects does the creator showcase here? (  )
+Can I see examples of the creator's previous work? ( Projects )
+Is there a resume or CV available for the creator's professional background? (  )
+How can I get in touch with the creator for potential collaboration or job opportunities?
+What is the creator's expertise or specialization?
+Are there any testimonials or references from previous clients or employers?
+Is there a blog or news section to keep up with the latest updates from the creator?
+Can I find links to the creator's social media profiles or other online presence? 
+Is there a portfolio or projects section that's organized by categories or themes?
+Is there a contact page with a contact form or direct email address? (Personal)
+What technologies or tools does the creator use in their work?
+Are there any awards or recognition that the creator has received for their work?
+Is there a downloadable PDF version of the creator's resume or portfolio?
+Can I subscribe to a newsletter or updates from the creator?
+Are there any upcoming events or speaking engagements the creator is participating in?
+How frequently is the website updated with new work or content?
+Is there a section for frequently asked questions (FAQ) or support?
+Are there any open job opportunities or internship positions with the creator's company or projects?
+
+
+# How would I categorize my infomation based on the questions 
+
+Follow up questions Recommendation 
+E.g Ask general questions about experience --> LLM Agent should generate follow up questions like 
+1. What hackathons have I participated, 2. Leadership Skills, 3. 

@@ -1,0 +1,8 @@
+pinecone-client
+tiktoken 
+openai 
+langchain
+python-dotenv
+InstructorEmbedding
+torch
+sentence_transformers
