@@ -6,3 +6,6 @@ python-dotenv
 InstructorEmbedding
 torch
 sentence_transformers
+fastapi 
+uvicorn
+pyautogen
